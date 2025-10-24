@@ -10,7 +10,7 @@ The app uploads a 2D medical image (PNG/JPG), simulates a selected phase on the 
 ## Live Demo
 
 - **Frontend (GitHub Pages):** https://antonioserra21.github.io/surgical-planning-miniapp/
-- **Backend (Hugging Face Space):** https://antonioserra21-app-test-surgical.hf.space
+- **Backend (Hugging Face Space):** https://huggingface.co/spaces/antonioserra21/app-test-surgical/tree/main
 
 ---
 
