@@ -1,4 +1,11 @@
+# Web framework for building high-performance APIs and web applications
 fastapi==0.115.4
+
+# ASGI server for running FastAPI apps in production (e.g., uvicorn main:app --reload)
 uvicorn==0.32.0
+
+# Image processing library (used for resizing, converting, or saving uploaded images)
 pillow==10.4.0
+
+# Handles multipart form data, required for file uploads in FastAPI
 python-multipart==0.0.9
